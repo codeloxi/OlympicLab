@@ -4,7 +4,7 @@
 //
 //  Created by Jacob on 8/9/18.
 //  Copyright © 2018 Jacob. All rights reserved.
-//  Jacob Bennett ID:010729222
+//  
 
 #include <iostream>
 #include <fstream>
